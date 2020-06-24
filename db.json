@@ -1,0 +1,24 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "Harry Potter e a Pedra Filosofal",
+      "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51asM9eJMXL._AC_.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Harry Potter e a Câmara Secreta",
+      "imageURL": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwCHwfBuIMRtVHQ6U9mG3L8tHeMqcBL0RQPXbUCV3QbCKmXXmQ"
+    },
+    {
+      "id": 3,
+      "name": "Harry Potter e a Prisioneiro de Azkaban",
+      "imageURL": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRE2nFYCDlZzI1Jv-8cCS2rHuyGh8JGZroxZTIE80uBDG__N21n"
+    },
+    {
+      "id": 10,
+      "name": "NAME",
+      "imageURL": "IMG URL"
+    }
+  ]
+}
